@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sourendu21
-- 👀 I’m interested in App Development
+- 👀 I’m interested in
 - 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
